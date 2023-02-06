@@ -1,12 +1,3 @@
 {
-  "name": "my-demo",
-  "version": "1.0.0",
-  "description": "this is my achievements",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "SwetaDumaniya",
-  "license": "ISC"
+  "author": "SwetaDumaniya"
 }
